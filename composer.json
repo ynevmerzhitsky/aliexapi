@@ -1,8 +1,8 @@
 {
-    "name": "clchangnet/aliexapi",
+    "name": "ynevmerzhitsky/aliexapi",
     "description": "AliExpress Affiliate API PHP Library",
     "keywords": ["Aliexpress", "Product Advertising", "SOAP", "REST", "Affiliate Products"],
-    "homepage": "https://github.com/clchangnet/aliexapi",
+    "homepage": "https://github.com/ynevmerzhitsky/aliexapi",
     "type": "library",
     "license": "Apache-2.0",
     "authors": [
