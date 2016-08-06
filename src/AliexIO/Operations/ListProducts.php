@@ -78,5 +78,10 @@ class ListProducts extends AbstractOperation
     {
         $this->parameter['localCurrency'] = $localCurrency;
         return $this;
-    }    
+    }
+	public function setLanguage($language)
+	{
+		$this->parameter['language'] = $language;
+		return $this;
+	}
 }
